@@ -183,55 +183,7 @@ const imesh: Developer = {
 ---
 
 <!-- ┌─────────────────────────────────────────────────────────────┐ -->
-<!--           YOUTUBE CHANNEL 1 — MY PERSONAL CHANNEL            -->
-<!-- └─────────────────────────────────────────────────────────────┘ -->
-## 🎥 My YouTube — @imeshharshana
-
-<div align="center">
-
-[![Channel Badge](https://img.shields.io/badge/📺_@imeshharshana-Personal_Tech_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=8B0000)](https://youtube.com/@imeshharshana)
-
-<table>
-  <thead>
-    <tr>
-      <th align="center">🎬 Video 01</th>
-      <th align="center">🎬 Video 02</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://youtu.be/T9oHJLy2acA?si=wF_Me3NaxKioN4Sv">
-          <img src="https://img.youtube.com/vi/T9oHJLy2acA/maxresdefault.jpg"
-               width="96%" alt="Imesh Harshana Video 01" style="border-radius:10px;"/>
-        </a>
-        <br/><br/>
-        <a href="https://youtu.be/T9oHJLy2acA?si=wF_Me3NaxKioN4Sv">
-          <img src="https://img.shields.io/badge/▶_WATCH_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=8B0000"/>
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://youtu.be/wTUwLF-21LA?si=9asULnYAvsVUjhdb">
-          <img src="https://img.youtube.com/vi/wTUwLF-21LA/maxresdefault.jpg"
-               width="96%" alt="Imesh Harshana Video 02" style="border-radius:10px;"/>
-        </a>
-        <br/><br/>
-        <a href="https://youtu.be/wTUwLF-21LA?si=9asULnYAvsVUjhdb">
-          <img src="https://img.shields.io/badge/▶_WATCH_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=8B0000"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-[![Subscribe](https://img.shields.io/badge/🔔_Subscribe_for_More_Tech_Content!-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@imeshharshana)
-
-</div>
-
----
-
-<!-- ┌─────────────────────────────────────────────────────────────┐ -->
-<!--           YOUTUBE CHANNEL 2 — KUPPILAB                       -->
+<!--           YOUTUBE CHANNEL — KUPPILAB                         -->
 <!-- └─────────────────────────────────────────────────────────────┘ -->
 ## 📚 KuppiLab — @KuppiLab
 
@@ -239,15 +191,16 @@ const imesh: Developer = {
 
 <div align="center">
 
-[![KuppiLab Badge](https://img.shields.io/badge/📺_@KuppiLab-IT_%26_Data_Science_Education-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://youtube.com/@KuppiLab)
+<!-- Typing Animation for KuppiLab -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=FF6B35&background=00000000&center=true&vCenter=true&repeat=true&width=600&height=50&lines=🗄️+Database+Systems;💻+Programming+%26+Frameworks;🌐+Network+Design;📋+IT+Project+Management" alt="KuppiLab Topics" />
 
-**Topics Covered:**
+<br/><br/>
 
-![Database](https://img.shields.io/badge/🗄️_Database_Systems-0D1117?style=flat-square&color=FF6B35)
-![Programming](https://img.shields.io/badge/💻_Programming_%26_Frameworks-0D1117?style=flat-square&color=FF6B35)
-![Networks](https://img.shields.io/badge/🌐_Network_Design-0D1117?style=flat-square&color=FF6B35)
-![IT PM](https://img.shields.io/badge/📋_IT_Project_Mgmt-0D1117?style=flat-square&color=FF6B35)
-![SLIIT](https://img.shields.io/badge/🎓_SLIIT_Kuppi_Sessions-0D1117?style=flat-square&color=FF6B35)
+[![KuppiLab Badge](https://img.shields.io/badge/📺_@KuppiLab-IT_%26_Data_Science_Education-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://www.youtube.com/@KuppiLab)
+
+<br/>
+
+### 📺 Featured Content Series
 
 <table>
   <thead>
@@ -259,30 +212,36 @@ const imesh: Developer = {
   <tbody>
     <tr>
       <td align="center" width="50%">
-        <a href="https://youtube.com/@KuppiLab">
-          <img src="https://img.youtube.com/vi/UC3xLX-vPTfuafdXQ7WO12zQ/0.jpg"
-               width="96%" alt="KuppiLab - Database Systems"
-               onerror="this.src='https://via.placeholder.com/480x270/FF6B35/FFFFFF?text=KuppiLab+DB+Systems'"/>
+        <a href="https://www.youtube.com/@KuppiLab">
+          <img src="https://img.youtube.com/vi/UC3xLX-vPTfuafdXQ7WO12zQ/maxresdefault.jpg"
+               width="96%" alt="KuppiLab - Database Systems" style="border-radius:12px;border:2px solid #FF6B35;"/>
         </a>
         <br/><br/>
-        <a href="https://youtube.com/@KuppiLab">
-          <img src="https://img.shields.io/badge/▶_WATCH_NOW-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010"/>
+        <strong>🗄️ Database Fundamentals</strong>
+        <br/><small>SQL, NoSQL & Design Patterns</small>
+        <br/><br/>
+        <a href="https://www.youtube.com/@KuppiLab">
+          <img src="https://img.shields.io/badge/▶_EXPLORE-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010"/>
         </a>
       </td>
       <td align="center" width="50%">
-        <a href="https://youtube.com/@KuppiLab">
-          <img src="https://img.youtube.com/vi/UC3xLX-vPTfuafdXQ7WO12zQ/1.jpg"
-               width="96%" alt="KuppiLab - Programming"
-               onerror="this.src='https://via.placeholder.com/480x270/FF6B35/FFFFFF?text=KuppiLab+Programming'"/>
+        <a href="https://www.youtube.com/@KuppiLab">
+          <img src="https://img.youtube.com/vi/UC3xLX-vPTfuafdXQ7WO12zQ/maxresdefault.jpg"
+               width="96%" alt="KuppiLab - Programming" style="border-radius:12px;border:2px solid #FF6B35;"/>
         </a>
         <br/><br/>
-        <a href="https://youtube.com/@KuppiLab">
-          <img src="https://img.shields.io/badge/▶_WATCH_NOW-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010"/>
+        <strong>💻 Programming Frameworks</strong>
+        <br/><small>JavaScript, Python & Web Dev</small>
+        <br/><br/>
+        <a href="https://www.youtube.com/@KuppiLab">
+          <img src="https://img.shields.io/badge/▶_EXPLORE-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010"/>
         </a>
       </td>
     </tr>
   </tbody>
 </table>
+
+<br/>
 
 <table>
   <thead>
@@ -294,32 +253,40 @@ const imesh: Developer = {
   <tbody>
     <tr>
       <td align="center" width="50%">
-        <a href="https://youtube.com/@KuppiLab">
-          <img src="https://img.youtube.com/vi/UC3xLX-vPTfuafdXQ7WO12zQ/2.jpg"
-               width="96%" alt="KuppiLab - Networks"
-               onerror="this.src='https://via.placeholder.com/480x270/FF6B35/FFFFFF?text=KuppiLab+Networks'"/>
+        <a href="https://www.youtube.com/@KuppiLab">
+          <img src="https://img.youtube.com/vi/UC3xLX-vPTfuafdXQ7WO12zQ/maxresdefault.jpg"
+               width="96%" alt="KuppiLab - Networks" style="border-radius:12px;border:2px solid #FF6B35;"/>
         </a>
         <br/><br/>
-        <a href="https://youtube.com/@KuppiLab">
-          <img src="https://img.shields.io/badge/▶_WATCH_NOW-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010"/>
+        <strong>🌐 Network Architecture</strong>
+        <br/><small>Routing, Security & Best Practices</small>
+        <br/><br/>
+        <a href="https://www.youtube.com/@KuppiLab">
+          <img src="https://img.shields.io/badge/▶_EXPLORE-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010"/>
         </a>
       </td>
       <td align="center" width="50%">
-        <a href="https://youtube.com/@KuppiLab">
-          <img src="https://img.youtube.com/vi/UC3xLX-vPTfuafdXQ7WO12zQ/3.jpg"
-               width="96%" alt="KuppiLab - IT PM"
-               onerror="this.src='https://via.placeholder.com/480x270/FF6B35/FFFFFF?text=KuppiLab+IT+PM'"/>
+        <a href="https://www.youtube.com/@KuppiLab">
+          <img src="https://img.youtube.com/vi/UC3xLX-vPTfuafdXQ7WO12zQ/maxresdefault.jpg"
+               width="96%" alt="KuppiLab - IT PM" style="border-radius:12px;border:2px solid #FF6B35;"/>
         </a>
         <br/><br/>
-        <a href="https://youtube.com/@KuppiLab">
-          <img src="https://img.shields.io/badge/▶_WATCH_NOW-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010"/>
+        <strong>📋 Project Management</strong>
+        <br/><small>Agile, SDLC & Leadership</small>
+        <br/><br/>
+        <a href="https://www.youtube.com/@KuppiLab">
+          <img src="https://img.shields.io/badge/▶_EXPLORE-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010"/>
         </a>
       </td>
     </tr>
   </tbody>
 </table>
 
-[![Subscribe KuppiLab](https://img.shields.io/badge/🔔_Subscribe_to_KuppiLab_—_Turn_Study_into_Kuppi_Time!-FF6B35?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@KuppiLab)
+<br/>
+
+[![Subscribe KuppiLab](https://img.shields.io/badge/🔔_SUBSCRIBE_TO_KUPPILAB-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://www.youtube.com/@KuppiLab)
+
+[![Join Community](https://img.shields.io/badge/💬_JOIN_OUR_TELEGRAM_COMMUNITY-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kuppi_Lab)
 
 > 💡 *Join our Telegram community: [t.me/Kuppi_Lab](https://t.me/Kuppi_Lab)*
 
