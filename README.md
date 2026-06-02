@@ -209,43 +209,43 @@ const imesh: Developer = {
 | 🎓 **Course** | 📌 **Link** |
 |:---|:---|
 | 📊 **Data Science Fundamentals** | [🎥 Watch Now](https://youtu.be/T9oHJLy2acA?si=s_5APCpNGDAcVsu7) |
-| 🔐 **Cyber Security Essentials** | [🎥 Watch Now](https://youtu.be/wTUwLF-21LA?si=Nuhiz-RjBZRkRSuE) |
+| � **BMIT - Econ Part** | [🎥 Watch Now](https://youtu.be/f_yNCoAVse8?si=ypzlCHpzv8My4n9I) |
 
 </div>
 
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 15px auto;">
 
-<div style="flex: 1; min-width: 280px; max-width: 360px; text-align: center; background: #0D1117; padding: 15px; border-radius: 12px; border: 2px solid #FF6B35;">
+<div style="flex: 1; min-width: 250px; max-width: 310px; text-align: center; background: #0D1117; padding: 12px; border-radius: 12px; border: 2px solid #FF6B35;">
 
 #### 📊 Data Science Fundamentals
 
-<a href="https://youtu.be/T9oHJLy2acA?si=s_5APCpNGDAcVsu7" style="display: block; margin: 10px 0;">
+<a href="https://youtu.be/T9oHJLy2acA?si=s_5APCpNGDAcVsu7" style="display: block; margin: 8px 0;">
   <img src="https://img.youtube.com/vi/T9oHJLy2acA/0.jpg" alt="Data Science" style="width: 100%; border-radius: 8px; display: block;" />
 </a>
 
-**Master Data Science Concepts**
-- 🎯 Machine Learning Basics
-- 📈 Data Analysis & Visualization  
-- 💡 Real-world Projects
+**Master Data Science**
+- 🎯 Machine Learning
+- 📈 Data Analysis  
+- 💡 Real Projects
 
-[![Watch Video](https://img.shields.io/badge/▶_WATCH_VIDEO-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://youtu.be/T9oHJLy2acA?si=s_5APCpNGDAcVsu7)
+[![Watch Video](https://img.shields.io/badge/▶_WATCH-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://youtu.be/T9oHJLy2acA?si=s_5APCpNGDAcVsu7)
 
 </div>
 
-<div style="flex: 1; min-width: 280px; max-width: 360px; text-align: center; background: #0D1117; padding: 15px; border-radius: 12px; border: 2px solid #FF6B35;">
+<div style="flex: 1; min-width: 250px; max-width: 310px; text-align: center; background: #0D1117; padding: 12px; border-radius: 12px; border: 2px solid #FF6B35;">
 
-#### 🔐 Cyber Security Essentials
+#### 📚 BMIT - Econ Part
 
-<a href="https://youtu.be/wTUwLF-21LA?si=Nuhiz-RjBZRkRSuE" style="display: block; margin: 10px 0;">
-  <img src="https://img.youtube.com/vi/wTUwLF-21LA/0.jpg" alt="Cyber Security" style="width: 100%; border-radius: 8px; display: block;" />
+<a href="https://youtu.be/f_yNCoAVse8?si=ypzlCHpzv8My4n9I" style="display: block; margin: 8px 0;">
+  <img src="https://img.youtube.com/vi/f_yNCoAVse8/0.jpg" alt="BMIT Econ" style="width: 100%; border-radius: 8px; display: block;" />
 </a>
 
-**Master Cyber Security**
-- 🛡️ Network Security Fundamentals
-- 🚨 Threat Detection & Prevention
-- ✅ Best Security Practices
+**Business Management IT**
+- 💼 Economics Basics
+- 📊 Business Concepts
+- 🎯 Case Studies
 
-[![Watch Video](https://img.shields.io/badge/▶_WATCH_VIDEO-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://youtu.be/wTUwLF-21LA?si=Nuhiz-RjBZRkRSuE)
+[![Watch Video](https://img.shields.io/badge/▶_WATCH-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://youtu.be/f_yNCoAVse8?si=ypzlCHpzv8My4n9I)
 
 </div>
 
