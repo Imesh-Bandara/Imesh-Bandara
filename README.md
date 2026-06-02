@@ -1,39 +1,156 @@
-<h2 align="left">Hi 👋! My name is Imesh</h2>
+ <h1 align="center">Hi 👋, I'm Imesh Harshana</h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Imesh-Bandara/Imesh-Bandara/stats-output/stats.svg" height="150" />
-  <img src="https://streak-stats.demolab.com?user=Imesh-Bandara&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://raw.githubusercontent.com/Imesh-Bandara/Imesh-Bandara/languages-output/languages.svg" height="150" />
-</div>
+<h3 align="center">
+🚀 IT Undergraduate | MERN Stack Developer | UI/UX Enthusiast | Future IT Manager
+</h3>
 
----
-
-### 🛠 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer;IT+Undergraduate+from+Sri+Lanka;Always+Learning+New+Technologies;Building+Creative+Solutions" />
+</p>
 
 ---
 
-### 🌐 Connect with me
+## 🌟 About Me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/imesh-harshana-4187953b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@KuppiLab"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/imesh_harshana_13/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="https://web.facebook.com/imesh.harshana.10/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
-</div>
+- 🎓 IT Undergraduate
+- 💻 MERN Stack Developer
+- 🌱 Currently learning Full Stack Development
+- 🚀 Interested in AI, DevOps & Cloud Computing
+- 🎯 Goal: Become an IT Manager
+- 🇱🇰 Based in Sri Lanka
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Imesh-Bandara/Imesh-Bandara/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Imesh-Bandara/Imesh-Bandara/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Imesh-Bandara/Imesh-Bandara/pacman-output/pacman-contribution-graph.svg">
-</picture>
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="https://youtube.com/@YOURCHANNEL">
+<img src="https://skillicons.dev/icons?i=youtube" height="50"/>
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+</p>
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,php,mysql,git,github,vscode,figma" />
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Imesh-Bandara&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imesh-Bandara&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Imesh-Bandara&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Imesh-Bandara&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Imesh-Bandara&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎥 Featured YouTube Videos
+
+<table>
+<tr>
+
+<td width="50%">
+<a href="https://youtu.be/T9oHJLy2acA">
+<img src="https://img.youtube.com/vi/T9oHJLy2acA/maxresdefault.jpg"/>
+</a>
+
+### 🚀 Video 01
+Click Thumbnail To Watch
+</td>
+
+<td width="50%">
+<a href="https://youtu.be/wTUwLF-21LA">
+<img src="https://img.youtube.com/vi/wTUwLF-21LA/maxresdefault.jpg"/>
+</a>
+
+### 🚀 Video 02
+Click Thumbnail To Watch
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|------------|
+| 👕 Clothing Management System | MERN Stack University Project |
+| 🍔 Food Delivery App | Android UI/UX Project |
+| 💬 Feedback Management System | CRUD + PDF + Search + Dashboard |
+| 🤖 AI Public Speaking Coach | Future AI Project |
+| ⏳ Digital Time Capsule | Innovative Mobile App |
+
+---
+
+## 💡 Developer Quote
+
+> "Code is not just about solving problems. It's about creating opportunities for people."
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Imesh-Bandara&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my GitHub Profile ⭐
+</h3>
