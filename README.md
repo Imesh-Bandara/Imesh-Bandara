@@ -137,19 +137,15 @@ const imesh: Developer = {
 <!-- └─────────────────────────────────────────────────────────────┘ -->
 ## 💪 Skill Levels
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=900&size=16&duration=3000&pause=500&color=FFD700&center=true&lines=⭐+PROFICIENCY+DASHBOARD+⭐" alt="Skills" width="400"/>
-</div>
-
 ```text
-⚡ JavaScript / TypeScript   ████████████████████░░░   82% 🚀
-⚛️  React.js                 ██████████████████░░░░░   76% 🎯
-🟢 Node.js + Express         █████████████████░░░░░░   72% 💚
-🍃 MongoDB                   ████████████████░░░░░░░   67% 🌿
-🎨 UI/UX Design (Figma)      ████████████████████░░░   80% 🎨
-🐍 Python                    █████████████░░░░░░░░░░   55% 🐍
-☕ Java                       █████████████░░░░░░░░░░   52% ☕
-🐘 PHP + MySQL               ████████████░░░░░░░░░░░   50% 🐘
+⚡ JavaScript / TypeScript   ████████████████████░░░   82%
+⚛️  React.js                 ██████████████████░░░░░   76%
+🟢 Node.js + Express         █████████████████░░░░░░   72%
+🍃 MongoDB                   ████████████████░░░░░░░   67%
+🎨 UI/UX Design (Figma)      ████████████████████░░░   80%
+🐍 Python                    █████████████░░░░░░░░░░   55%
+☕ Java                       █████████████░░░░░░░░░░   52%
+🐘 PHP + MySQL               ████████████░░░░░░░░░░░   50%
 ```
 
 ---
@@ -208,93 +204,54 @@ const imesh: Developer = {
 
 ### 📺 Featured Content Series
 
-<table>
-  <thead>
-    <tr>
-      <th align="center">📖 Database Systems</th>
-      <th align="center">💻 Programming Lab</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://www.youtube.com/@KuppiLab">
-          <img src="https://via.placeholder.com/480x270/FF6B35/FFFFFF?text=🗄️+Database+Systems" 
-               width="96%" alt="KuppiLab - Database Systems" style="border-radius:12px;border:3px solid #FF6B35;box-shadow:0 0 15px rgba(255,107,53,0.6);"/>
-        </a>
-        <br/><br/>
-        <strong>🗄️ Database Fundamentals</strong>
-        <br/><small>SQL, NoSQL & Design Patterns</small>
-        <br/><br/>
-        <a href="https://www.youtube.com/@KuppiLab">
-          <img src="https://img.shields.io/badge/▶_WATCH_NOW-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010"/>
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://www.youtube.com/@KuppiLab">
-          <img src="https://via.placeholder.com/480x270/FF6B35/FFFFFF?text=💻+Programming+Labs"
-               width="96%" alt="KuppiLab - Programming" style="border-radius:12px;border:3px solid #FF6B35;box-shadow:0 0 15px rgba(255,107,53,0.6);"/>
-        </a>
-        <br/><br/>
-        <strong>💻 Programming Frameworks</strong>
-        <br/><small>JavaScript, Python & Web Dev</small>
-        <br/><br/>
-        <a href="https://www.youtube.com/@KuppiLab">
-          <img src="https://img.shields.io/badge/▶_WATCH_NOW-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 30px auto;">
+
+#### 🗄️ Database Systems
+[![Database Course](https://dummyimage.com/480x270/FF6B35/FFFFFF&text=📚+Database+Systems)](https://www.youtube.com/@KuppiLab)
+**Database Fundamentals** • SQL, NoSQL & Design Patterns
+[![](https://img.shields.io/badge/▶_WATCH_NOW-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://www.youtube.com/@KuppiLab)
+
+#### 💻 Programming Lab
+[![Programming Course](https://dummyimage.com/480x270/FF6B35/FFFFFF&text=💻+Programming+Labs)](https://www.youtube.com/@KuppiLab)
+**Programming Frameworks** • JavaScript, Python & Web Dev
+[![](https://img.shields.io/badge/▶_WATCH_NOW-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://www.youtube.com/@KuppiLab)
+
+#### 🌐 Network Design
+[![Network Course](https://dummyimage.com/480x270/FF6B35/FFFFFF&text=🌐+Network+Design)](https://www.youtube.com/@KuppiLab)
+**Network Architecture** • Routing, Security & Best Practices
+[![](https://img.shields.io/badge/▶_WATCH_NOW-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://www.youtube.com/@KuppiLab)
+
+#### 📋 IT Project Management
+[![Project Management Course](https://dummyimage.com/480x270/FF6B35/FFFFFF&text=📋+IT+Projects)](https://www.youtube.com/@KuppiLab)
+**Project Management** • Agile, SDLC & Leadership
+[![](https://img.shields.io/badge/▶_WATCH_NOW-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://www.youtube.com/@KuppiLab)
+
+</div>
 
 <br/>
 
-<table>
-  <thead>
-    <tr>
-      <th align="center">🌐 Network Design</th>
-      <th align="center">📋 IT Project Management</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://www.youtube.com/@KuppiLab">
-          <img src="https://via.placeholder.com/480x270/FF6B35/FFFFFF?text=🌐+Network+Architecture"
-               width="96%" alt="KuppiLab - Networks" style="border-radius:12px;border:3px solid #FF6B35;box-shadow:0 0 15px rgba(255,107,53,0.6);"/>
-        </a>
-        <br/><br/>
-        <strong>🌐 Network Architecture</strong>
-        <br/><small>Routing, Security & Best Practices</small>
-        <br/><br/>
-        <a href="https://www.youtube.com/@KuppiLab">
-          <img src="https://img.shields.io/badge/▶_WATCH_NOW-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010"/>
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://www.youtube.com/@KuppiLab">
-          <img src="https://via.placeholder.com/480x270/FF6B35/FFFFFF?text=📋+IT+Project+Mgmt"
-               width="96%" alt="KuppiLab - IT PM" style="border-radius:12px;border:3px solid #FF6B35;box-shadow:0 0 15px rgba(255,107,53,0.6);"/>
-        </a>
-        <br/><br/>
-        <strong>📋 Project Management</strong>
-        <br/><small>Agile, SDLC & Leadership</small>
-        <br/><br/>
-        <a href="https://www.youtube.com/@KuppiLab">
-          <img src="https://img.shields.io/badge/▶_WATCH_NOW-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<br/>
+
+<details>
+<summary><b>🎬 Browse All KuppiLab Videos</b></summary>
+
+<br/>
+
+| 📚 **Topic** | 🎥 **Content** | 📌 **Status** |
+|:---|:---|:---|
+| Database Design | SQL Optimization, NoSQL Best Practices, Schema Design | 🔥 Popular |
+| Web Development | MERN Stack, React Patterns, Node.js APIs | ✅ Active |
+| Network Systems | Routing Protocols, Network Security, OSI Model | 📈 Growing |
+| IT Management | Project Planning, Agile Methodology, Team Leadership | 🎯 Essential |
+| Data Structures | Advanced DSA, Algorithm Analysis, Coding Patterns | 💡 Trending |
+
+</details>
 
 <br/>
 
 [![Subscribe KuppiLab](https://img.shields.io/badge/🔔_SUBSCRIBE_TO_KUPPILAB-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://www.youtube.com/@KuppiLab)
 
-[![Join Community](https://img.shields.io/badge/💬_JOIN_OUR_TELEGRAM_COMMUNITY-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kuppi_Lab)
-
-> 💡 *Join our Telegram community: [t.me/Kuppi_Lab](https://t.me/Kuppi_Lab)*
+[![Join Community](https://img.shields.io/badge/💬_JOIN_TELEGRAM_COMMUNITY-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kuppi_Lab)
 
 </div>
 
@@ -304,10 +261,6 @@ const imesh: Developer = {
 <!--                   FEATURED PROJECTS                          -->
 <!-- └─────────────────────────────────────────────────────────────┘ -->
 ## 🚀 Signature Projects
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=900&size=16&duration=3000&pause=500&color=00D4FF&center=true&lines=✨+FEATURED+PROJECTS+✨" alt="Projects" width="400"/>
-</div>
 
 <div align="center">
 
@@ -327,10 +280,6 @@ const imesh: Developer = {
 <!--                  CURRENTLY LEARNING                          -->
 <!-- └─────────────────────────────────────────────────────────────┘ -->
 ## 🌱 Currently Exploring
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=900&size=16&duration=3000&pause=500&color=FFA500&center=true&lines=🔥+LEARNING+PATH+2026+🔥" alt="Learning" width="400"/>
-</div>
 
 <div align="center">
 
