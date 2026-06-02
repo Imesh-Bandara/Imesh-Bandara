@@ -202,50 +202,48 @@ const imesh: Developer = {
 
 <br/>
 
-### 📺 Featured Content Series
+### 📺 Featured Courses
 
-<div align="center" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 30px auto;">
+<div align="center">
 
-#### 🗄️ Database Systems
-[![Database Course](https://dummyimage.com/480x270/FF6B35/FFFFFF&text=📚+Database+Systems)](https://www.youtube.com/@KuppiLab)
-**Database Fundamentals** • SQL, NoSQL & Design Patterns
-[![](https://img.shields.io/badge/▶_WATCH_NOW-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://www.youtube.com/@KuppiLab)
-
-#### 💻 Programming Lab
-[![Programming Course](https://dummyimage.com/480x270/FF6B35/FFFFFF&text=💻+Programming+Labs)](https://www.youtube.com/@KuppiLab)
-**Programming Frameworks** • JavaScript, Python & Web Dev
-[![](https://img.shields.io/badge/▶_WATCH_NOW-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://www.youtube.com/@KuppiLab)
-
-#### 🌐 Network Design
-[![Network Course](https://dummyimage.com/480x270/FF6B35/FFFFFF&text=🌐+Network+Design)](https://www.youtube.com/@KuppiLab)
-**Network Architecture** • Routing, Security & Best Practices
-[![](https://img.shields.io/badge/▶_WATCH_NOW-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://www.youtube.com/@KuppiLab)
-
-#### 📋 IT Project Management
-[![Project Management Course](https://dummyimage.com/480x270/FF6B35/FFFFFF&text=📋+IT+Projects)](https://www.youtube.com/@KuppiLab)
-**Project Management** • Agile, SDLC & Leadership
-[![](https://img.shields.io/badge/▶_WATCH_NOW-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://www.youtube.com/@KuppiLab)
+| 🎓 **Course** | 📌 **Link** |
+|:---|:---|
+| 📊 **Data Science Fundamentals** | [🎥 Watch Now](https://youtu.be/T9oHJLy2acA?si=s_5APCpNGDAcVsu7) |
+| 🔐 **Cyber Security Essentials** | [🎥 Watch Now](https://youtu.be/wTUwLF-21LA?si=Nuhiz-RjBZRkRSuE) |
 
 </div>
 
-<br/>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
 
-<br/>
+<div style="flex: 1; min-width: 300px; max-width: 400px; text-align: center;">
 
-<details>
-<summary><b>🎬 Browse All KuppiLab Videos</b></summary>
+#### 📊 Data Science
+[![Data Science Course](https://dummyimage.com/380x200/FF6B35/FFFFFF&text=📊+Data+Science)](https://youtu.be/T9oHJLy2acA?si=s_5APCpNGDAcVsu7)
 
-<br/>
+**Master Data Science Concepts**
+- Machine Learning Basics
+- Data Analysis & Visualization  
+- Real-world Projects
 
-| 📚 **Topic** | 🎥 **Content** | 📌 **Status** |
-|:---|:---|:---|
-| Database Design | SQL Optimization, NoSQL Best Practices, Schema Design | 🔥 Popular |
-| Web Development | MERN Stack, React Patterns, Node.js APIs | ✅ Active |
-| Network Systems | Routing Protocols, Network Security, OSI Model | 📈 Growing |
-| IT Management | Project Planning, Agile Methodology, Team Leadership | 🎯 Essential |
-| Data Structures | Advanced DSA, Algorithm Analysis, Coding Patterns | 💡 Trending |
+[![Watch Video](https://img.shields.io/badge/🎥_WATCH_VIDEO-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://youtu.be/T9oHJLy2acA?si=s_5APCpNGDAcVsu7)
 
-</details>
+</div>
+
+<div style="flex: 1; min-width: 300px; max-width: 400px; text-align: center;">
+
+#### 🔐 Cyber Security
+[![Cyber Security Course](https://dummyimage.com/380x200/FF6B35/FFFFFF&text=🔐+Cyber+Security)](https://youtu.be/wTUwLF-21LA?si=Nuhiz-RjBZRkRSuE)
+
+**Master Cyber Security**
+- Network Security Fundamentals
+- Threat Detection & Prevention
+- Best Security Practices
+
+[![Watch Video](https://img.shields.io/badge/🎥_WATCH_VIDEO-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://youtu.be/wTUwLF-21LA?si=Nuhiz-RjBZRkRSuE)
+
+</div>
+
+</div>
 
 <br/>
 
