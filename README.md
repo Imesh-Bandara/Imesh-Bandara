@@ -134,7 +134,7 @@ const imesh = {
 
 **🎬 Video 02**
 
-[![Watch Now](https://img.shields.io/badge/▶%20Watch%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/wTUwLF-21LA?si=9asULnYAvsVUjhdb)
+[![Watch Now](https://img.shields.io/badge/▶%20Watch%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/wTUwLF-21LA?si=hpXXlr4VEXt8XLrK)
 
 </td>
 
