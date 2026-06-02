@@ -11,10 +11,12 @@
 </div>
 
 <!-- ┌─────────────────────────────────────────────────────────────┐ -->
-<!--                  MULTI-LINE TYPING SVG                        -->
+<!--              ANIMATED MULTI-LINE TYPING TEXT                  -->
 <!-- └─────────────────────────────────────────────────────────────┘ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=700&color=00D4FF&background=00000000&center=true&vCenter=true&repeat=true&width=750&height=55&lines=🚀+MERN+Stack+Developer+%7C+Sri+Lanka+🇱🇰;🎓+IT+Undergraduate+%7C+Future+IT+Manager+🏆;🎥+YouTube+Educator+%40+KuppiLab+%26+More!;🤖+Exploring+AI+%7C+DevOps+%7C+Cloud+Computing;✨+Building+Real+Products+that+Matter;💡+Code+→+Create+→+Inspire+→+Repeat" alt="Typing Animation"/>
+  <a href="https://github.com/Imesh-Bandara">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=🚀+MERN+Stack+Developer+%7C+Sri+Lanka+🇱🇰;🎓+IT+Undergraduate+%7C+Future+IT+Manager+🏆;🎥+YouTube+Educator+%40+KuppiLab+%7C+Breaking+Concepts;🤖+AI+%26+DevOps+Enthusiast+%7C+Cloud+Computing;✨+Building+Real+Products+%7C+Creating+Impact;💡+Code+→+Create+→+Inspire+→+Repeat" alt="Typing Animation" />
+  </a>
 </div>
 
 <br/>
@@ -135,15 +137,19 @@ const imesh: Developer = {
 <!-- └─────────────────────────────────────────────────────────────┘ -->
 ## 💪 Skill Levels
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=900&size=16&duration=3000&pause=500&color=FFD700&center=true&lines=⭐+PROFICIENCY+DASHBOARD+⭐" alt="Skills" width="400"/>
+</div>
+
 ```text
-⚡ JavaScript / TypeScript   ████████████████████░░░   82%
-⚛️  React.js                 ██████████████████░░░░░   76%
-🟢 Node.js + Express         █████████████████░░░░░░   72%
-🍃 MongoDB                   ████████████████░░░░░░░   67%
-🎨 UI/UX Design (Figma)      ████████████████████░░░   80%
-🐍 Python                    █████████████░░░░░░░░░░   55%
-☕ Java                       █████████████░░░░░░░░░░   52%
-🐘 PHP + MySQL               ████████████░░░░░░░░░░░   50%
+⚡ JavaScript / TypeScript   ████████████████████░░░   82% 🚀
+⚛️  React.js                 ██████████████████░░░░░   76% 🎯
+🟢 Node.js + Express         █████████████████░░░░░░   72% 💚
+🍃 MongoDB                   ████████████████░░░░░░░   67% 🌿
+🎨 UI/UX Design (Figma)      ████████████████████░░░   80% 🎨
+🐍 Python                    █████████████░░░░░░░░░░   55% 🐍
+☕ Java                       █████████████░░░░░░░░░░   52% ☕
+🐘 PHP + MySQL               ████████████░░░░░░░░░░░   50% 🐘
 ```
 
 ---
@@ -191,8 +197,8 @@ const imesh: Developer = {
 
 <div align="center">
 
-<!-- Typing Animation for KuppiLab -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=FF6B35&background=00000000&center=true&vCenter=true&repeat=true&width=600&height=50&lines=🗄️+Database+Systems;💻+Programming+%26+Frameworks;🌐+Network+Design;📋+IT+Project+Management" alt="KuppiLab Topics" />
+<!-- Animated Typing for KuppiLab -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=500&color=FF6B35&center=true&vCenter=true&repeat=true&width=700&height=60&lines=🗄️+Database+Systems+%26+SQL;💻+Programming+%26+Web+Frameworks;🌐+Network+Architecture+%26+Design;📋+IT+Project+Management;🎓+SLIIT+Kuppi+Sessions" alt="KuppiLab Content" />
 
 <br/><br/>
 
@@ -213,28 +219,28 @@ const imesh: Developer = {
     <tr>
       <td align="center" width="50%">
         <a href="https://www.youtube.com/@KuppiLab">
-          <img src="https://img.youtube.com/vi/UC3xLX-vPTfuafdXQ7WO12zQ/maxresdefault.jpg"
-               width="96%" alt="KuppiLab - Database Systems" style="border-radius:12px;border:2px solid #FF6B35;"/>
+          <img src="https://via.placeholder.com/480x270/FF6B35/FFFFFF?text=🗄️+Database+Systems" 
+               width="96%" alt="KuppiLab - Database Systems" style="border-radius:12px;border:3px solid #FF6B35;box-shadow:0 0 15px rgba(255,107,53,0.6);"/>
         </a>
         <br/><br/>
         <strong>🗄️ Database Fundamentals</strong>
         <br/><small>SQL, NoSQL & Design Patterns</small>
         <br/><br/>
         <a href="https://www.youtube.com/@KuppiLab">
-          <img src="https://img.shields.io/badge/▶_EXPLORE-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010"/>
+          <img src="https://img.shields.io/badge/▶_WATCH_NOW-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010"/>
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://www.youtube.com/@KuppiLab">
-          <img src="https://img.youtube.com/vi/UC3xLX-vPTfuafdXQ7WO12zQ/maxresdefault.jpg"
-               width="96%" alt="KuppiLab - Programming" style="border-radius:12px;border:2px solid #FF6B35;"/>
+          <img src="https://via.placeholder.com/480x270/FF6B35/FFFFFF?text=💻+Programming+Labs"
+               width="96%" alt="KuppiLab - Programming" style="border-radius:12px;border:3px solid #FF6B35;box-shadow:0 0 15px rgba(255,107,53,0.6);"/>
         </a>
         <br/><br/>
         <strong>💻 Programming Frameworks</strong>
         <br/><small>JavaScript, Python & Web Dev</small>
         <br/><br/>
         <a href="https://www.youtube.com/@KuppiLab">
-          <img src="https://img.shields.io/badge/▶_EXPLORE-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010"/>
+          <img src="https://img.shields.io/badge/▶_WATCH_NOW-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010"/>
         </a>
       </td>
     </tr>
@@ -254,28 +260,28 @@ const imesh: Developer = {
     <tr>
       <td align="center" width="50%">
         <a href="https://www.youtube.com/@KuppiLab">
-          <img src="https://img.youtube.com/vi/UC3xLX-vPTfuafdXQ7WO12zQ/maxresdefault.jpg"
-               width="96%" alt="KuppiLab - Networks" style="border-radius:12px;border:2px solid #FF6B35;"/>
+          <img src="https://via.placeholder.com/480x270/FF6B35/FFFFFF?text=🌐+Network+Architecture"
+               width="96%" alt="KuppiLab - Networks" style="border-radius:12px;border:3px solid #FF6B35;box-shadow:0 0 15px rgba(255,107,53,0.6);"/>
         </a>
         <br/><br/>
         <strong>🌐 Network Architecture</strong>
         <br/><small>Routing, Security & Best Practices</small>
         <br/><br/>
         <a href="https://www.youtube.com/@KuppiLab">
-          <img src="https://img.shields.io/badge/▶_EXPLORE-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010"/>
+          <img src="https://img.shields.io/badge/▶_WATCH_NOW-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010"/>
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://www.youtube.com/@KuppiLab">
-          <img src="https://img.youtube.com/vi/UC3xLX-vPTfuafdXQ7WO12zQ/maxresdefault.jpg"
-               width="96%" alt="KuppiLab - IT PM" style="border-radius:12px;border:2px solid #FF6B35;"/>
+          <img src="https://via.placeholder.com/480x270/FF6B35/FFFFFF?text=📋+IT+Project+Mgmt"
+               width="96%" alt="KuppiLab - IT PM" style="border-radius:12px;border:3px solid #FF6B35;box-shadow:0 0 15px rgba(255,107,53,0.6);"/>
         </a>
         <br/><br/>
         <strong>📋 Project Management</strong>
         <br/><small>Agile, SDLC & Leadership</small>
         <br/><br/>
         <a href="https://www.youtube.com/@KuppiLab">
-          <img src="https://img.shields.io/badge/▶_EXPLORE-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010"/>
+          <img src="https://img.shields.io/badge/▶_WATCH_NOW-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010"/>
         </a>
       </td>
     </tr>
@@ -300,6 +306,10 @@ const imesh: Developer = {
 ## 🚀 Signature Projects
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=900&size=16&duration=3000&pause=500&color=00D4FF&center=true&lines=✨+FEATURED+PROJECTS+✨" alt="Projects" width="400"/>
+</div>
+
+<div align="center">
 
 | 🏷️ Project | 💬 Description | 🔧 Stack | 📌 Status |
 |:------------|:--------------|:---------|:----------|
@@ -317,6 +327,10 @@ const imesh: Developer = {
 <!--                  CURRENTLY LEARNING                          -->
 <!-- └─────────────────────────────────────────────────────────────┘ -->
 ## 🌱 Currently Exploring
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=900&size=16&duration=3000&pause=500&color=FFA500&center=true&lines=🔥+LEARNING+PATH+2026+🔥" alt="Learning" width="400"/>
+</div>
 
 <div align="center">
 
