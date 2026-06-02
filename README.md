@@ -213,33 +213,39 @@ const imesh: Developer = {
 
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 15px 0;">
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
 
-<div style="flex: 1; min-width: 280px; max-width: 350px; text-align: center;">
+<div style="flex: 1; min-width: 280px; max-width: 360px; text-align: center; background: #0D1117; padding: 15px; border-radius: 12px; border: 2px solid #FF6B35;">
 
-#### 📊 Data Science
-[![Data Science Course](https://img.youtube.com/vi/T9oHJLy2acA/maxresdefault.jpg)](https://youtu.be/T9oHJLy2acA?si=s_5APCpNGDAcVsu7)
+#### 📊 Data Science Fundamentals
+
+<a href="https://youtu.be/T9oHJLy2acA?si=s_5APCpNGDAcVsu7" style="display: block; margin: 10px 0;">
+  <img src="https://img.youtube.com/vi/T9oHJLy2acA/0.jpg" alt="Data Science" style="width: 100%; border-radius: 8px; display: block;" />
+</a>
 
 **Master Data Science Concepts**
-- Machine Learning Basics
-- Data Analysis & Visualization  
-- Real-world Projects
+- 🎯 Machine Learning Basics
+- 📈 Data Analysis & Visualization  
+- 💡 Real-world Projects
 
-[![Watch Video](https://img.shields.io/badge/🎥_WATCH_VIDEO-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://youtu.be/T9oHJLy2acA?si=s_5APCpNGDAcVsu7)
+[![Watch Video](https://img.shields.io/badge/▶_WATCH_VIDEO-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://youtu.be/T9oHJLy2acA?si=s_5APCpNGDAcVsu7)
 
 </div>
 
-<div style="flex: 1; min-width: 280px; max-width: 350px; text-align: center;">
+<div style="flex: 1; min-width: 280px; max-width: 360px; text-align: center; background: #0D1117; padding: 15px; border-radius: 12px; border: 2px solid #FF6B35;">
 
-#### 🔐 Cyber Security
-[![Cyber Security Course](https://img.youtube.com/vi/wTUwLF-21LA/maxresdefault.jpg)](https://youtu.be/wTUwLF-21LA?si=Nuhiz-RjBZRkRSuE)
+#### 🔐 Cyber Security Essentials
+
+<a href="https://youtu.be/wTUwLF-21LA?si=Nuhiz-RjBZRkRSuE" style="display: block; margin: 10px 0;">
+  <img src="https://img.youtube.com/vi/wTUwLF-21LA/0.jpg" alt="Cyber Security" style="width: 100%; border-radius: 8px; display: block;" />
+</a>
 
 **Master Cyber Security**
-- Network Security Fundamentals
-- Threat Detection & Prevention
-- Best Security Practices
+- 🛡️ Network Security Fundamentals
+- 🚨 Threat Detection & Prevention
+- ✅ Best Security Practices
 
-[![Watch Video](https://img.shields.io/badge/🎥_WATCH_VIDEO-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://youtu.be/wTUwLF-21LA?si=Nuhiz-RjBZRkRSuE)
+[![Watch Video](https://img.shields.io/badge/▶_WATCH_VIDEO-FF6B35?style=for-the-badge&logo=youtube&logoColor=white&labelColor=7B3010)](https://youtu.be/wTUwLF-21LA?si=Nuhiz-RjBZRkRSuE)
 
 </div>
 
