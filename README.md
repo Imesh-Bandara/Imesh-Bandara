@@ -26,10 +26,10 @@
 <!-- └─────────────────────────────────────────────────────────────┘ -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imesh-harshana)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@imeshharshana)
-[![KuppiLab](https://img.shields.io/badge/KuppiLab-FF6B35?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@KuppiLab)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imesh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imesh-harshana-4187953b4)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KuppiLab)
+[![KuppiLab](https://img.shields.io/badge/KuppiLab-FF6B35?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KuppiLab)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imeshharshana128@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Imesh-Bandara)
 ![Profile Views](https://komarev.com/ghpvc/?username=Imesh-Bandara&label=👁️+Profile+Views&color=00d4ff&style=for-the-badge)
 
@@ -218,7 +218,7 @@ const imesh: Developer = {
 <div style="flex: 1; min-width: 300px; max-width: 400px; text-align: center;">
 
 #### 📊 Data Science
-[![Data Science Course](https://dummyimage.com/380x200/FF6B35/FFFFFF&text=📊+Data+Science)](https://youtu.be/T9oHJLy2acA?si=s_5APCpNGDAcVsu7)
+[![Data Science Course](https://img.youtube.com/vi/T9oHJLy2acA/maxresdefault.jpg)](https://youtu.be/T9oHJLy2acA?si=s_5APCpNGDAcVsu7)
 
 **Master Data Science Concepts**
 - Machine Learning Basics
@@ -232,7 +232,7 @@ const imesh: Developer = {
 <div style="flex: 1; min-width: 300px; max-width: 400px; text-align: center;">
 
 #### 🔐 Cyber Security
-[![Cyber Security Course](https://dummyimage.com/380x200/FF6B35/FFFFFF&text=🔐+Cyber+Security)](https://youtu.be/wTUwLF-21LA?si=Nuhiz-RjBZRkRSuE)
+[![Cyber Security Course](https://img.youtube.com/vi/wTUwLF-21LA/maxresdefault.jpg)](https://youtu.be/wTUwLF-21LA?si=Nuhiz-RjBZRkRSuE)
 
 **Master Cyber Security**
 - Network Security Fundamentals
@@ -383,24 +383,42 @@ const imesh: Developer = {
 <!-- ┌─────────────────────────────────────────────────────────────┐ -->
 <!--                   CONNECT SECTION                            -->
 <!-- └─────────────────────────────────────────────────────────────┘ -->
-## 🌐 Let's Build Something Together
+## 🌐 Let's Connect & Build Together
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imesh-harshana)
-[![YouTube](https://img.shields.io/badge/YouTube-@imeshharshana-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@imeshharshana)
-[![KuppiLab](https://img.shields.io/badge/KuppiLab-@KuppiLab-FF6B35?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@KuppiLab)
-[![Telegram](https://img.shields.io/badge/Telegram-KuppiLab_Community-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kuppi_Lab)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me_📩-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imesh@gmail.com)
+### 📞 Direct Contact
+
+| Platform | Link |
+|:---|:---|
+| 💼 **LinkedIn** | [Imesh Harshana](https://www.linkedin.com/in/imesh-harshana-4187953b4) |
+| 📧 **Email** | [imeshharshana128@gmail.com](mailto:imeshharshana128@gmail.com) |
+| 💻 **GitHub** | [Imesh-Bandara](https://github.com/Imesh-Bandara) |
+| 🎥 **YouTube** | [@KuppiLab](https://www.youtube.com/@KuppiLab) |
 
 <br/>
+
+### 🚀 Quick Links
+
+[![LinkedIn](https://img.shields.io/badge/💼_CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imesh-harshana-4187953b4)
+
+[![YouTube KuppiLab](https://img.shields.io/badge/🎥_WATCH_ON_KUPPILAB-FF6B35?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@KuppiLab)
+
+[![Gmail](https://img.shields.io/badge/📧_EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imeshharshana128@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/💻_GITHUB_PROFILE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imesh-Bandara)
+
+[![Telegram](https://img.shields.io/badge/💬_TELEGRAM_COMMUNITY-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kuppi_Lab)
+
+<br/><br/>
 
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║  👋 Open to: Collaborations │ Internships │ Projects     ║
 ║  📍 Location: Sri Lanka 🇱🇰 (Remote-Friendly 🌏)         ║
 ║  ⚡ Response: Within 24 Hours                            ║
-║  🎥 YouTube: 2 Active Channels & Growing!               ║
+║  🎓 Education: MERN Stack | YouTube Educator            ║
+║  🔗 Connect Below! Let's Build Something Amazing!        ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
