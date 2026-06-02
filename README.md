@@ -7,7 +7,7 @@
 <!--                    ANIMATED HEADER                             -->
 <!-- └─────────────────────────────────────────────────────────────┘ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0a0a2e,50:0d1b4b,75:0a3060,100:0066cc&height=280&section=header&text=Imesh%20Harshana&fontSize=70&fontColor=00d4ff&fontAlignY=38&desc=⚡%20Crafting%20the%20Digital%20Future%20from%20Sri%20Lanka%20🇱🇰&descSize=20&descAlignY=58&descColor=ffffff&animation=scaleIn&stroke=00d4ff&strokeWidth=3" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0a0a2e,50:0d1b4b,75:0a3060,100:0066cc&height=200&section=header&text=Imesh%20Harshana&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=⚡%20Crafting%20the%20Digital%20Future%20from%20Sri%20Lanka%20🇱🇰&descSize=18&descAlignY=58&descColor=ffffff&animation=scaleIn&stroke=00d4ff&strokeWidth=3" width="100%"/>
 </div>
 
 <!-- ┌─────────────────────────────────────────────────────────────┐ -->
@@ -15,7 +15,7 @@
 <!-- └─────────────────────────────────────────────────────────────┘ -->
 <div align="center">
   <a href="https://github.com/Imesh-Bandara">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=🚀+MERN+Stack+Developer+%7C+Sri+Lanka+🇱🇰;🎓+IT+Undergraduate+%7C+Future+IT+Manager+🏆;🎥+YouTube+Educator+%40+KuppiLab+%7C+Breaking+Concepts;🤖+AI+%26+DevOps+Enthusiast+%7C+Cloud+Computing;✨+Building+Real+Products+%7C+Creating+Impact;💡+Code+→+Create+→+Inspire+→+Repeat" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=500&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=🚀+MERN+Stack+Developer+%7C+Sri+Lanka+🇱🇰;🎓+IT+Undergraduate+%7C+Future+IT+Manager+🏆;🎥+YouTube+Educator+%40+KuppiLab+%7C+Breaking+Concepts;🤖+AI+%26+DevOps+Enthusiast+%7C+Cloud+Computing;✨+Building+Real+Products+%7C+Creating+Impact" alt="Typing Animation" />
   </a>
 </div>
 
@@ -213,9 +213,9 @@ const imesh: Developer = {
 
 </div>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin: 15px 0;">
 
-<div style="flex: 1; min-width: 300px; max-width: 400px; text-align: center;">
+<div style="flex: 1; min-width: 280px; max-width: 350px; text-align: center;">
 
 #### 📊 Data Science
 [![Data Science Course](https://img.youtube.com/vi/T9oHJLy2acA/maxresdefault.jpg)](https://youtu.be/T9oHJLy2acA?si=s_5APCpNGDAcVsu7)
@@ -229,7 +229,7 @@ const imesh: Developer = {
 
 </div>
 
-<div style="flex: 1; min-width: 300px; max-width: 400px; text-align: center;">
+<div style="flex: 1; min-width: 280px; max-width: 350px; text-align: center;">
 
 #### 🔐 Cyber Security
 [![Cyber Security Course](https://img.youtube.com/vi/wTUwLF-21LA/maxresdefault.jpg)](https://youtu.be/wTUwLF-21LA?si=Nuhiz-RjBZRkRSuE)
